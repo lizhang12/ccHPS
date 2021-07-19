@@ -12,7 +12,8 @@ Rscript ccHPS.R expression_input_file.txt
 The input genes should include all the nine genes involved in ccHPS model.
 An example format of `expression_input_file.txt`:
 
-![Uploading Screenshot 2021-07-19 181327.png…]()
+![Screenshot 2021-07-19 181327](https://user-images.githubusercontent.com/61243260/126146243-65cd1150-f991-45b3-91fb-76fda262588a.png)
+
 
 `output` an output file will be created with the ccHPS score of each sample.
 
