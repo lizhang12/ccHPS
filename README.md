@@ -1,6 +1,6 @@
 ## ccHPS
 a Hypoxia-related Prognostic Signature for cervical cancer (ccHPS), which was developed and validated 
-using tumor samples in TCGA-CESC and CGCI-HTMCP-CC cohorts based on LASSO Cox regression analysis.
+using tumor samples in TCGA-CESC and CGCI-HTMCP-CC cohorts based on LASSO Cox regression analysis. The data used in the developing process could be found in this link https://figshare.com/articles/dataset/Data_set_repositories/14999487.
 
 ## ccHPS.R
 calculate the ccHPS score for each input samples using gene expression matrix.
